@@ -27,7 +27,6 @@
 ### 나비  
 - 나이: 1세  
 - 성별: 남성 (중성화 완료)  
-![나비 이미지](https://i.postimg.cc/43Ky3dqV/Clipped-image-20250115-142606.png)
 
 ---
 
